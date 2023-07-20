@@ -1,6 +1,6 @@
 title: "Luke M. Kearney"
 author: "Luke M. Kearney"
-description: "University of Oxford"
+description: "Luke M. Kearney"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,12 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
-  - {file: "README.md", title: About me}
+  - {file: "README.md", title: About}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:luke.kearney@earth.ox.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/lmkearney"}
-  - {title: Google Scholar, icon: rss, url: "https://scholar.google.co.uk/citations?user=MnaoIFwAAAAJ"}
+  - {title: Google Scholar, icon: mortar-board, url: "https://scholar.google.co.uk/citations?user=MnaoIFwAAAAJ"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
