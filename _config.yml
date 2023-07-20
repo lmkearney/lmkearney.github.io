@@ -22,7 +22,7 @@ minimal: false             # use a dark header
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:luke.kearney@earth.ox.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/lmkearney"}
-  - {title: Google Scholar, icon: mortar-board, url: "https://scholar.google.co.uk/citations?user=MnaoIFwAAAAJ"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.co.uk/citations?user=MnaoIFwAAAAJ"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
